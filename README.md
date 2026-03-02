@@ -66,8 +66,7 @@ Fichiers principaux détectés :
 
 L’APK UnCrackable-Level1.apk a été fourni par l’enseignant dans le cadre du laboratoire.
 
-Objectif pédagogique :
-Analyser les mécanismes anti-tampering et anti-reverse engineering.
+
 
 ---
 
