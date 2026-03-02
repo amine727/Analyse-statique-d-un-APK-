@@ -384,4 +384,4 @@ L’application affiche :
 
 "Success! This is the correct secret."
 
-📸 Voir capture : <img width="320" height="580" alt="7" src="https://github.com/user-attachments/assets/204e0c0f-f5d3-4d67-ada6-7347b2d9a4c2" />
+ <img width="320" height="580" alt="7" src="https://github.com/user-attachments/assets/204e0c0f-f5d3-4d67-ada6-7347b2d9a4c2" />
